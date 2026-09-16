@@ -3,6 +3,9 @@ A Full Business Analytics Project Using SQL Server and Tableau.
 To Understand customer value and behavior
 
 
+
+
+
 <img width="1525" height="1110" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/32fef8b6-fb7c-41d6-8edc-e200e64b4429" />
 
 <img width="1651" height="1071" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/e5125be7-a974-40e8-b832-1c5e9be6629e" />
@@ -18,6 +21,12 @@ To Understand customer value and behavior
 <img width="1888" height="971" alt="Executive Customer" src="https://github.com/user-attachments/assets/42296ea5-b152-4778-9dca-02b0365063e7" />
 
 <img width="1888" height="971" alt="Customer Behavior" src="https://github.com/user-attachments/assets/5f0c1943-47b4-4e96-b8c5-def2b2da5822" />
+
+<img width="1888" height="971" alt="Churn" src="https://github.com/user-attachments/assets/ebbabe31-197f-4ec4-aac5-1ff08e95169b" />
+
+<img width="1888" height="971" alt="At Risk" src="https://github.com/user-attachments/assets/77c1e58e-f933-4175-bf72-8e40d6af70e4" />
+
+
 
 
 Executive Summary
