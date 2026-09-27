@@ -2,7 +2,9 @@ Customer Analytics Segmentation And Retention.
 A Full Business Analytics Project Using SQL Server and Tableau.  
 To Understand customer value and behavior
 
+ Interactive Dashboard
 
+[View Interactive Tableau Dashboard](https://youssefabdelwadoud2-stack.github.io/Data-Analytics-Portfolio-/projects/customer-analytics.html)
 
 
 
