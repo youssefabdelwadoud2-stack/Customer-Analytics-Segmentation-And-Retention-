@@ -152,11 +152,15 @@ Skills And Methodology
 
 
 Methodology:- 
+
 1- SQL query that extract, clean, and transform the data from the data 
+
 2- Tableau for data modeling and build a dashboard 
 
 Skills:- 
+
 1- SQL : ETL, Views, Case, Aggregation Functions 
+
 2- Tableau : Data Modeling, Calculated Columns, Data Visualizations 
 
 SQL Server
@@ -164,8 +168,8 @@ SQL Server
   - Building customer-level metrics:-
       recency (days since last purchase), frequency (total orders), monetary value (total customer value / average order value)
   - Building category groups with rules:-
-      Value Group (High/Medium/Low),
-      RFM-style Group (Champions/Loyal Customers/Potential Loyalists/At Risk/Lost), 
+     Value Group (High/Medium/Low),
+     RFM-style Group (Champions/Loyal Customers/Potential Loyalists/At Risk/Lost), 
       recency-based Customer Group (Recent/Active/At Risk/Inactive),
       simple Risk Label (High Risk/Low Risk)
   - Building a combined "High-Value At-Risk" flag using both value and risk rules
