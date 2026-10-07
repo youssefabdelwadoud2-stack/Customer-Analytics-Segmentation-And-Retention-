@@ -24,19 +24,20 @@
 
                                                      View Created
                                                      
-<img width="1651" height="1071" alt="View Created " src="https://github.com/user-attachments/assets/4fbdc5b6-1280-468e-ac67-634c4f1c7c28" />
-
-                                                     View Created 2
-
-<img width="1651" height="1089" alt="View Created 2" src="https://github.com/user-attachments/assets/3a08e9aa-1477-4c99-b010-6fcd576e924e" />
+<img width="1920" height="1067" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/f7b98e10-2d7b-4504-a1f1-c54d4aab7c5b" />
 
 
-                                                     View Created 3
+                                                     View Created Measure 1
+
+<img width="1626" height="1080" alt="Screenshot (270)" src="https://github.com/user-attachments/assets/a0db98a2-5ae6-4761-939c-ce620e00912c" />
+
+
+                                                     View Created Measure 2
                                                      
-<img width="1639" height="1080" alt="View Created 3" src="https://github.com/user-attachments/assets/241f2e24-d401-4039-be34-dcb533736cc4" />
+<img width="1636" height="1074" alt="Screenshot (271)" src="https://github.com/user-attachments/assets/4d5090b6-1469-4c9f-8071-d462b40c6fc0" />
+
 
                                                      Second View Created
                                                      
-<img width="1525" height="1110" alt="Second View Created" src="https://github.com/user-attachments/assets/e0cd201d-7e80-49cb-982a-31da17c2c904" />
+<img width="1745" height="632" alt="Second View Created" src="https://github.com/user-attachments/assets/dcfbfdc6-efd6-4063-b4b5-378c46836793" />
 
-                                                   
