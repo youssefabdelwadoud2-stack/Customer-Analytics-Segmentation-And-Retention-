@@ -294,30 +294,35 @@ Results
 Strategic Recommendations
 
 1- Focus on High-Value At-Risk Customers first
-     Target - 598 High-Value At-Risk customers
-     Reason - These customers combine high past value with high risk.
-     Goal   - Put retention resources first toward the customers with the biggest combination of value and risk.
+
+- Target - 598 High-Value At-Risk customers
+- Reason - These customers combine high past value with high risk.
+- Goal   - Put retention resources first toward the customers with the biggest combination of value and risk.
      
 2- Use RFM style groups to prioritize campaigns
-     Target - Focus on: - RFM At Risk  - Lost   - High/Medium Value customers within those groups
-     Reason - RFM-style groups show a strong churn pattern from Champions to Lost.
-     Goal   - Build different retention strategies instead of using one single campaign for everyone.
 
-  3- Look into Gold Membership Churn
-     Target - Gold membership customers.
-     Reason - Gold has the highest churn rate at (9.86%).
-     Goal   - Find out whether Gold Membership customers have issues with:
+- Target - Focus on: - RFM At Risk  - Lost   - High/Medium Value customers within those groups
+- Reason - RFM-style groups show a strong churn pattern from Champions to Lost.
+- Goal   - Build different retention strategies instead of using one single campaign for everyone.
+
+3- Look into Gold Membership Churn
+
+- Target - Gold membership customers.
+- Reason - Gold has the highest churn rate at (9.86%).
+- Goal   - Find out whether Gold Membership customers have issues with:
               (Membership benefits, Pricing, Expectations, Onboarding, Engagement)
 
-  4- Look into Review Behavior as a Retention Signal
-     Target - Customers with no reviews, especially those in valuable or developing behavior groups.
-     Reason - The churn gap is large: between (16.10% to 6.50%)
-     Goal   - Find out whether review activity can be used as a sign of engagement, and whether encouraging reviews has any real effect on retention.
+4- Look into Review Behavior as a Retention Signal
+
+- Target - Customers with no reviews, especially those in valuable or developing behavior groups.
+- Reason - The churn gap is large: between (16.10% to 6.50%)
+- Goal   - Find out whether review activity can be used as a sign of engagement, and whether encouraging reviews has any real effect on retention.
    
-  5- Don't Treat Risk and RFM Groups as the Same Thing
-     Target - Customers who show up in different classifications at the same time, like (483 Loyal Customers who also High-Risk group)
-     Reason - This overlap shows that loyalty and inactivity are two different things.
-     Goal   - Avoid sending the same aggressive win-back campaign to every customer labeled high risk.
+5- Don't Treat Risk and RFM Groups as the Same Thing
+
+- Target - Customers who show up in different classifications at the same time, like (483 Loyal Customers who also High-Risk group)
+- Reason - This overlap shows that loyalty and inactivity are two different things.
+- Goal   - Avoid sending the same aggressive win-back campaign to every customer labeled high risk.
           
 -
 -
