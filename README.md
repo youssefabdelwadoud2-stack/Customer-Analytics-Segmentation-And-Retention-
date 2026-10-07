@@ -242,38 +242,45 @@ Steps of the Project:-
 
 Results
        
-   1- Customer value is heavily concentrated
-     High-Value customers are (2,500) customers, about 31% of the base, but hold ($9,278,974), about 74% of the total historical customer value.
-     That mean: protecting this group matters much more than average.
+1- Customer value is heavily concentrated
 
-   2- Churn is not spread evenly by customer value
-     Low-Value customers have a (13.61%) churn rate, compared to (6.44%) for High-Value customers.
-     That mean: the highest churn rate isn't necessarily where the biggest financial risk is.
+- High-Value customers are (2,500) customers, about 31% of the base, but hold ($9,278,974), about 74% of the total historical customer value.
+- That mean: protecting this group matters much more than average.
 
+2- Churn is not spread evenly by customer value
+   
+- Low-Value customers have a (13.61%) churn rate, compared to (6.44%) for High-Value customers.
+- That mean: the highest churn rate isn't necessarily where the biggest financial risk is.
 
-   3- Behavior grouping shows a strong churn pattern
-     Churn goes from: (4.91% Champions) to (29.95% Lost)
-     That mean: behavior grouping gives a much more useful view than just the overall churn number.
+3- Behavior grouping shows a strong churn pattern
+
+- Churn goes from: (4.91% Champions) to (29.95% Lost)
+- That mean: behavior grouping gives a much more useful view than just the overall churn number.
  
-   4- (598) customers combine high value and high risk
-     The project finds (598) High Value At Risk customers.
-     That mean: this creates a specific, manageable group to prioritize, instead of treating all (1,986) high risk customers the same.
+4- (598) customers combine high value and high risk
+
+- The project finds (598) High Value At Risk customers.
+- That mean: this creates a specific, manageable group to prioritize, instead of treating all (1,986) high risk customers the same.
     
-   5- Review behavior has the strongest engagement link
-     Customers with reviews show (6.50% churn), compared to (16.10%) for customers without reviews.
-     That mean: review behavior is a strong candidate to investigate further as an engagement signal.
+5- Review behavior has the strongest engagement link
+
+- Customers with reviews show (6.50% churn), compared to (16.10%) for customers without reviews.
+- That mean: review behavior is a strong candidate to investigate further as an engagement signal.
   
-   6- Gold membership has the highest churn
-     Gold customers have a (9.86% churn rate), compared to (8.23% for Platinum) and (7.09% for Silver).
-     That mean: We needs to study Gold tier  instead of assuming membership benefits automatically improve retention.
+6- Gold membership has the highest churn
 
-   7- RFM loyalty and inactivity risk aren't the same thing
-     The High Risk group has (483) customers classified as Loyal Customers by the RFM style grouping.
-     That mean: customer outreach should look at more than one grouping method, not just one classification alone.
+- Gold customers have a (9.86% churn rate), compared to (8.23% for Platinum) and (7.09% for Silver).
+- That mean: We needs to study Gold tier instead of assuming membership benefits automatically improve retention.
 
-   8- Acquisition channel is a fairly weak churn factor
-     Churn only ranges from (8.11% to 9.94%) across acquisition channels.
-     That mean: improving retention by channel seems less useful than targeting by value and behavior in this data.
+7- RFM loyalty and inactivity risk aren't the same thing
+
+- The High Risk group has (483) customers classified as Loyal Customers by the RFM style grouping.
+- That mean: customer outreach should look at more than one grouping method, not just one classification alone.
+
+8- Acquisition channel is a fairly weak churn factor
+
+- Churn only ranges from (8.11% to 9.94%) across acquisition channels.
+- That mean: improving retention by channel seems less useful than targeting by value and behavior in this data.
 
 -
 -
@@ -286,12 +293,12 @@ Results
 
 Strategic Recommendations
 
-  1- Focus on High-Value At-Risk Customers first
+1- Focus on High-Value At-Risk Customers first
      Target - 598 High-Value At-Risk customers
      Reason - These customers combine high past value with high risk.
      Goal   - Put retention resources first toward the customers with the biggest combination of value and risk.
      
-  2- Use RFM style groups to prioritize campaigns
+2- Use RFM style groups to prioritize campaigns
      Target - Focus on: - RFM At Risk  - Lost   - High/Medium Value customers within those groups
      Reason - RFM-style groups show a strong churn pattern from Champions to Lost.
      Goal   - Build different retention strategies instead of using one single campaign for everyone.
