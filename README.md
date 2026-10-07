@@ -12,28 +12,6 @@ To Understand customer value and behavior
 <img width="894" height="774" alt="customer-analytics png" src="https://github.com/user-attachments/assets/9084d522-5f16-442e-accf-8fc8a7854228" />
 
 
-
-
-<img width="1525" height="1110" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/32fef8b6-fb7c-41d6-8edc-e200e64b4429" />
-
-<img width="1651" height="1071" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/e5125be7-a974-40e8-b832-1c5e9be6629e" />
-
-<img width="1651" height="1089" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/42dd2551-6ec6-49a6-a552-1a87d0102fd7" />
-
-<img width="1639" height="1080" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/0a457f7e-af2c-44d3-9cce-acbc07849634" />
-
-<img width="1888" height="971" alt="Over View 2" src="https://github.com/user-attachments/assets/823f2acc-76b7-440d-826a-da61a4f4e7cc" />
-
-<img width="1888" height="971" alt="Ovar View 1" src="https://github.com/user-attachments/assets/9db266c5-78de-407d-9c8b-fd632bc261b3" />
-
-<img width="1888" height="971" alt="Executive Customer" src="https://github.com/user-attachments/assets/42296ea5-b152-4778-9dca-02b0365063e7" />
-
-<img width="1888" height="971" alt="Customer Behavior" src="https://github.com/user-attachments/assets/5f0c1943-47b4-4e96-b8c5-def2b2da5822" />
-
-<img width="1888" height="971" alt="Churn" src="https://github.com/user-attachments/assets/ebbabe31-197f-4ec4-aac5-1ff08e95169b" />
-
-<img width="1888" height="971" alt="At Risk" src="https://github.com/user-attachments/assets/77c1e58e-f933-4175-bf72-8e40d6af70e4" />
-
 -
 -
 
