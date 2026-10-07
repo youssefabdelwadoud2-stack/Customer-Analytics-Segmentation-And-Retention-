@@ -100,10 +100,15 @@ So the real analytical question is:
 
 
 So the project was built around these goals:-
+
 1- Understand the size and makeup of the customer base and how customer value is spread
+
 2- Understand customers behavior and Group Them by behavior using RFM styles.
+
 3- Measure overall churn and break it down by value, membership tier, acquisition channel, and engagement.
+
 4- Find which customer traits are linked to higher churn.
+
 5- Find the customers who are both high-value and high-risk, and give a clear way to prioritize retention effort.
 
 Key Business Questions is:-
