@@ -8,6 +8,12 @@ To Understand customer value and behavior
 
 
 
+
+<img width="894" height="774" alt="customer-analytics png" src="https://github.com/user-attachments/assets/9084d522-5f16-442e-accf-8fc8a7854228" />
+
+
+
+
 <img width="1525" height="1110" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/32fef8b6-fb7c-41d6-8edc-e200e64b4429" />
 
 <img width="1651" height="1071" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/e5125be7-a974-40e8-b832-1c5e9be6629e" />
@@ -28,6 +34,8 @@ To Understand customer value and behavior
 
 <img width="1888" height="971" alt="At Risk" src="https://github.com/user-attachments/assets/77c1e58e-f933-4175-bf72-8e40d6af70e4" />
 
+-
+-
 
 
 
@@ -59,6 +67,12 @@ The analysis shows:-
   - From (4.91%) for Champions to (29.95%) for Lost customers.
   - The (2,500) High-Value customers make up 31% of the customer base but hold ($9,278,974) about 74% of the total customer value.
   - The most important result of this project is finding (598) High-Value At-Risk customers, a group holding part of the ($3,014,151) in value that sits inside the at-risk customers, these are the customers where retention effort will likely pay off the most.
+
+-
+-
+-
+-
+-
 
 
 
@@ -105,6 +119,12 @@ Key Business Questions is:-
   - Which customers are both high value and At risk?
   - How much value is inside the at risk group?
   - Where should retention efforts be focused first?
+
+-
+-
+-
+-
+-
 
 
 
@@ -160,6 +180,12 @@ Steps of the Project:-
   - Calculated some measures on Tableau.
   - Put all the built into five dashboards designed to guide the reader from (what's happening) to (who should we act on).
 
+-
+-
+-
+-
+-
+
 
 
 
@@ -199,6 +225,12 @@ Results
      Churn only ranges from (8.11% to 9.94%) across acquisition channels.
      That mean: improving retention by channel seems less useful than targeting by value and behavior in this data.
 
+-
+-
+-
+-
+-
+
 
 
 
@@ -230,6 +262,12 @@ Strategic Recommendations
      Reason - This overlap shows that loyalty and inactivity are two different things.
      Goal   - Avoid sending the same aggressive win-back campaign to every customer labeled high risk.
           
+-
+-
+-
+-
+-
+
         
          
 Next Steps
