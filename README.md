@@ -361,5 +361,7 @@ Next Steps
   
   - Connect the dashboard to real CRM campaigns and measure whether targeted actions actually improve retention.
 
-  7- A/B Testing - Test retention actions such as - Personalized offers, Review prompts, Loyalty rewards, engagement campaigns
-           This would let the business tell the difference between (correlation and real cause and effect).
+  7- A/B Testing 
+  
+  - Test retention actions such as (Personalized offers, Review prompts, Loyalty rewards, engagement campaigns)
+  - This would let the business tell the difference between (correlation and real cause and effect).
