@@ -39,6 +39,4 @@
                                                      
 <img width="1525" height="1110" alt="Second View Created" src="https://github.com/user-attachments/assets/e0cd201d-7e80-49cb-982a-31da17c2c904" />
 
-                                                     Percentile Query
-                                                     
-<img width="1920" height="927" alt="Percentile Query " src="https://github.com/user-attachments/assets/03311a9e-2a0b-451d-8e8f-4f3ab078daa9" />
+                                                   
