@@ -42,6 +42,7 @@ To Understand customer value and behavior
 Executive Summary
 
 Customer retention isn't just about how many customers churn but to build a full picture of the customers.
+
 The more important business question is:-
   - Who they are? and how much they are worth?
   - How they behave? and who is churning and which of those high value?
@@ -50,9 +51,10 @@ The more important business question is:-
   - Where retention resources should be focused first?
 
 I used SQL Server to prepare the customer level data and build the analytical features:-
-  value group, a behavior group (RFM-style), a risk label, and a "high-value-at-risk" flag.
+- value group, a behavior group (RFM-style), a risk label, and a "high-value-at-risk" flag.
+
 Tableau to build the dashboards.
-This project looks at (8,000) customers who made (132,362) orders and spent a total of ($12,465,161).
+- This project looks at (8,000) customers who made (132,362) orders and spent a total of ($12,465,161).
 
 The project has Six dashboards: 
   - Two Overview Customer Segmentation Pages (who the customers are?)
