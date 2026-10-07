@@ -13,8 +13,8 @@ SELECT
 
       -- Value Segment
       ,CASE
-        WHEN total_spend_usd >= 1387.30 THEN 'High Value'
-        WHEN total_spend_usd >= 474.47 THEN 'Medium Value'
+        WHEN total_spend_usd >= 1500 THEN 'High Value'
+        WHEN total_spend_usd >= 500 THEN 'Medium Value'
         ELSE 'Low Value'
       END AS value_segment
 
@@ -34,7 +34,7 @@ SELECT
 
       -- High-Value At-Risk Flag
       ,CASE
-        WHEN total_spend_usd >= 1387.30
+        WHEN total_spend_usd >= 1500
              AND days_since_last_purchase > 84
         THEN 1 ELSE 0
       END AS high_value_at_risk_flag
