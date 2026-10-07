@@ -334,20 +334,32 @@ Strategic Recommendations
          
 Next Steps
       
-  1- Transaction level RFM analysis (SQL) - Bring in individual order history to calculate true transaction-level: Recency, Frequency, Monetary Value
-            This would make behavior grouping more precise.
+  1- Transaction level RFM analysis (SQL) 
   
-  2- Cohort Retention Analysis - Look at retention based on when customers signed up.
-            This would answer: How does retention change across different sign-up periods?
-
-  3- True Customer Lifetime Value - Replace past spending with a forward looking CLV model 
-           that includes expected future behavior.
-
-  4- Predictive Churn Modeling - Move from (Who has already churned?) to (Which currently active customers are most likely to churn?)
-
-  5- Customer Propensity Scoring - Replace the simple yes/no risk label with a continuous score that ranks customers.
+  - Bring in individual order history to calculate true transaction-level: Recency, Frequency, Monetary Value
+  - This would make behavior grouping more precise.
   
-  6- Retention Campaign Measurement - Connect the dashboard to real CRM campaigns and measure whether targeted actions actually improve retention.
+  2- Cohort Retention Analysis 
+  
+  - Look at retention based on when customers signed up.
+  - This would answer: How does retention change across different sign-up periods?
+
+  3- True Customer Lifetime Value 
+  
+  - Replace past spending with a forward looking CLV model 
+  - That includes expected future behavior.
+
+  4- Predictive Churn Modeling 
+  
+  - Move from (Who has already churned?) to (Which currently active customers are most likely to churn?)
+
+  5- Customer Propensity Scoring 
+  
+  - Replace the simple yes/no risk label with a continuous score that ranks customers.
+  
+  6- Retention Campaign Measurement 
+  
+  - Connect the dashboard to real CRM campaigns and measure whether targeted actions actually improve retention.
 
   7- A/B Testing - Test retention actions such as - Personalized offers, Review prompts, Loyalty rewards, engagement campaigns
            This would let the business tell the difference between (correlation and real cause and effect).
