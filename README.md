@@ -82,15 +82,21 @@ The analysis shows:-
 Business Problem
 
 A customer base can have a fairly normal overall churn rate while still hiding big pockets of business risk.
+
 In this project (8.94%) of customers are churned. But customers don't all bring the same value, and they don't all behave the same way.
+
 The High-Value group has (2,500) customers and brings in ($9,278,974) of the total ($12,465,161) in customer value. On the other hand, 
 the Low-Value group has (2,755) customers but brings in only ($652,376).
+
 This creates an important business problem: Should the company treat every churned or at-risk customer the same way?
 The analysis says it shouldn't.
+
 A retention plan that targets every at-risk customer equally might spend resources on customers who don't bring in much value, while ignoring the customers who represent bigger financial loss.
+
 At the same time, Customer value alone isn't enough either. A high-value customer isn't automatically at risk, and a low-value customer might show strong signs of being inactive.
+
 So the real analytical question is:
-How can we combine customer value and behavior-based risk to find the customers who should get the highest retention priority?
+- How can we combine customer value and behavior-based risk to find the customers who should get the highest retention priority?
 
 
 So the project was built around these goals:-
@@ -101,22 +107,27 @@ So the project was built around these goals:-
 5- Find the customers who are both high-value and high-risk, and give a clear way to prioritize retention effort.
 
 Key Business Questions is:-
+
 1- Understanding Customers
   - Who are our customers, and how are they split by gender, country, device, and acquisition channel?
   - How has the customer base grown over time?
+
 2- Customer Value
   - How is historical customer value spread out?
   - Which value group brings in the biggest share of total customer value?
   - How does customer value differ across behavior groups?
+
 3- Customer Behavior
   - How does purchase frequency relate to customer value?
   - How does recency (days since the last purchase) differ across behavior groups?
   - What do the RFM style groups look like in size and value?
   - Which behavior groups have the highest churn?
+
 4- Churn
   - What is the overall churn rate?
   - Does churn change based on value group, membership tier, or acquisition channel?
   - Is churn linked to engagement behavior?
+
 5- Risk
   - Which customers are both high value and At risk?
   - How much value is inside the at risk group?
