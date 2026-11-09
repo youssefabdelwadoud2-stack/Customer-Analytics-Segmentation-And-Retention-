@@ -7,8 +7,7 @@ To Understand customer value and behavior
 [View Interactive Tableau Dashboard](https://youssefabdelwadoud2-stack.github.io/Data-Analytics-Portfolio-/projects/customer-analytics.html)
 
 
-
-<img width="600" height="450" alt="Why Is Contact Management And Segmentation Important_ - Adam Group" src="https://github.com/user-attachments/assets/7c7e133f-e9a6-43cf-bd96-8b17ec7fa6a4" />
+<img width="736" height="414" alt="4cead9a5c1c5acd226e7ce0968fef46f" src="https://github.com/user-attachments/assets/4ef60f77-4f50-4473-aacd-8de5bc49c34e" />
 
 
 -
