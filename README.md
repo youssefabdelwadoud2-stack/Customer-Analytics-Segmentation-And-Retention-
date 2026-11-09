@@ -91,6 +91,7 @@ So the project was built around these goals:-
 
 5- Find the customers who are both high-value and high-risk, and give a clear way to prioritize retention effort.
 
+
 Key Business Questions is:-
 
 1- Understanding Customers
