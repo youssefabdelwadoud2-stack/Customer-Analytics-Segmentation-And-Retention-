@@ -63,10 +63,11 @@ A customer base can have a fairly normal overall churn rate while still hiding b
 
 In this project (8.94%) of customers are churned. But customers don't all bring the same value, and they don't all behave the same way.
 
-The High-Value group has (2,500) customers and brings in ($9,278,974) of the total ($12,465,161) in customer value. On the other hand, 
-the Low-Value group has (2,755) customers but brings in only ($652,376).
+The High Value group has (2,500) customers and brings in ($9,278,974) of the total ($12,465,161) in customer value.
+On the other hand, the Low Value group has (2,755) customers but brings in only ($652,376).
 
 This creates an important business problem: Should the company treat every churned or at-risk customer the same way?
+
 The analysis says it shouldn't.
 
 A retention plan that targets every at-risk customer equally might spend resources on customers who don't bring in much value, while ignoring the customers who represent bigger financial loss.
@@ -74,7 +75,7 @@ A retention plan that targets every at-risk customer equally might spend resourc
 At the same time, Customer value alone isn't enough either. A high-value customer isn't automatically at risk, and a low-value customer might show strong signs of being inactive.
 
 So the real analytical question is:
-- How can we combine customer value and behavior-based risk to find the customers who should get the highest retention priority?
+- How can we combine customer value and behavior based risk to find the customers who should get the highest retention priority?
 
 
 So the project was built around these goals:-
@@ -133,7 +134,7 @@ Methodology:-
 
 1- SQL query that extract, clean, and transform the data from the data 
 
-2- Tableau for data modeling and build a dashboard 
+2- Tableau for data modeling and build a five connected dashboard 
 
 Skills:- 
 
@@ -150,7 +151,7 @@ SQL Server
      RFM-style Group (Champions/Loyal Customers/Potential Loyalists/At Risk/Lost), 
       recency-based Customer Group (Recent/Active/At Risk/Inactive),
       simple Risk Label (High Risk/Low Risk)
-  - Building a combined "High-Value At-Risk" flag using both value and risk rules
+  - Building a combined "High Value At Risk" flag using both value and risk rules
 
 
                                                      View Created
@@ -193,7 +194,7 @@ Tableau
 
 -
 -
- what is the base of our customer and there value across all Segment?
+ What is the base of our customer and there value across all Segment?
  
                                                      Ovar View Page 1
 
@@ -201,7 +202,7 @@ Tableau
 
 -
 -
- what is the base of our customer and there value across all Segment?
+ What is the base of our customer and there value across all Segment?
  
                                                      Ovar View Page 2
 
@@ -277,12 +278,12 @@ Results
        
 1- Customer value is heavily concentrated
 
-- High-Value customers are (2,500) customers, about 31% of the base, but hold ($9,278,974), about 74% of the total historical customer value.
+- High Value customers are (2,500) customers, about 31% of the base, but hold ($9,278,974), about 74% of the total historical customer value.
 - That mean: protecting this group matters much more than average.
 
 2- Churn is not spread evenly by customer value
    
-- Low-Value customers have a (13.61%) churn rate, compared to (6.44%) for High-Value customers.
+- Low Value customers have a (13.61%) churn rate, compared to (6.44%) for High Value customers.
 - That mean: the highest churn rate isn't necessarily where the biggest financial risk is.
 
 3- Behavior grouping shows a strong churn pattern
