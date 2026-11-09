@@ -1,3 +1,10 @@
+
+<img width="894" height="774" alt="customer-analytics png" src="https://github.com/user-attachments/assets/413fbfb5-c682-4626-858d-237d9fd3903e" />
+
+
+
+                                                     
+                                                     
                                                      Ovar View Page 1
 
 <img width="1881" height="958" alt="Ovar View 1" src="https://github.com/user-attachments/assets/914aab26-1a11-408b-86fe-97b7735123a6" />
