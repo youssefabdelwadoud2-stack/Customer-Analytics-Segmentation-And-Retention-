@@ -366,7 +366,23 @@ Strategic Recommendations
 -
 -
 
-        
+
+
+What i learned:-
+
+- We can't look at churn and customer value separately doing that hides where the real risk is.
+
+- Splitting customers into groups is what makes an analysis useful, not just a number to report.
+
+- I also had to be careful not to assume one thing causes another — the Gold-tier churn pattern, for example, is just something worth checking, not proof of a cause.
+
+- And building customer data step by step in SQL, before using Tableau, made the final dashboards more reliable.
+
+
+-
+-
+-
+
          
 Next Steps
       
