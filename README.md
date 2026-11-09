@@ -37,7 +37,7 @@ The project has Six dashboards:
   - Two Overview Customer Segmentation Pages (who the customers are?)
   - An Executive Overview (main numbers and segment performance?)
   - A Segmentation And Behavior (RFM-style behavior groups?)
-  - A Churn And Retention (where churn happens the most)
+  - A Churn And Retention (where churn happens the most?)
   - An At-Risk Customers (where value and risk meet?).
 
 The analysis shows:-
