@@ -8,8 +8,7 @@ To Understand customer value and behavior
 
 
 
-
-<img width="894" height="774" alt="customer-analytics png" src="https://github.com/user-attachments/assets/9084d522-5f16-442e-accf-8fc8a7854228" />
+<img width="600" height="450" alt="Why Is Contact Management And Segmentation Important_ - Adam Group" src="https://github.com/user-attachments/assets/7c7e133f-e9a6-43cf-bd96-8b17ec7fa6a4" />
 
 
 -
