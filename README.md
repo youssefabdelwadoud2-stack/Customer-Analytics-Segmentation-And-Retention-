@@ -7,7 +7,9 @@ To Understand customer value and behavior
 [View Interactive Tableau Dashboard](https://youssefabdelwadoud2-stack.github.io/Data-Analytics-Portfolio-/projects/customer-analytics.html)
 
 
-<img width="736" height="414" alt="4cead9a5c1c5acd226e7ce0968fef46f" src="https://github.com/user-attachments/assets/4ef60f77-4f50-4473-aacd-8de5bc49c34e" />
+
+<img width="736" height="665" alt="How To Find Your Target Audience On Social Media" src="https://github.com/user-attachments/assets/df48d44c-90a4-4fbe-a8d6-9b4af6307cac" />
+
 
 
 -
