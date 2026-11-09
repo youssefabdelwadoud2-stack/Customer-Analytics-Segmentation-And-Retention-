@@ -8,7 +8,8 @@ To Understand customer value and behavior
 
 
 
-<img width="736" height="665" alt="How To Find Your Target Audience On Social Media" src="https://github.com/user-attachments/assets/df48d44c-90a4-4fbe-a8d6-9b4af6307cac" />
+<img width="894" height="774" alt="customer-analytics png" src="https://github.com/user-attachments/assets/6532d67e-dd0e-473d-907e-5825ded86454" />
+
 
 
 
